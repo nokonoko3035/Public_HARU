@@ -1,0 +1,11 @@
+敵データ1 string,ランダム出現間隔bool,出現間隔1 float,出現間隔2 float,敵データ2 string,ランダム出現間隔bool,出現間隔1 float,出現間隔2 float,Lv
+Hototogisu,TRUE,4.5,5.5,,,,,0
+Hototogisu,FALSE,5,5,snake,TRUE,6.5,7.5,1
+snake,FALSE,6,6,,,,,2
+Hototogisu,TRUE,2,3.5,snake,FALSE,6.5,6.5,3
+Hototogisu,FALSE,4.5,4.5,snake,TRUE,3.5,5,4
+Hototogisu,TRUE,3.5,5.5,,,,,5
+snake,TRUE,4.5,6.5,,,,,6
+Hototogisu,TRUE,3.5,4.5,snake,TRUE,5.5,6,7
+Hototogisu,FALSE,3.5,3.5,snake,TRUE,5,5.5,8
+Hototogisu,TRUE,3,3.5,snake,FALSE,5,5,9
